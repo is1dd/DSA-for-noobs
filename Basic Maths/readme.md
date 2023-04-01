@@ -1,0 +1,1 @@
+Always thinks in terms of writing in a function
